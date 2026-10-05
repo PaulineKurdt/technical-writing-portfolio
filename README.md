@@ -36,7 +36,7 @@ step-by-step instructions.
 The pattern uses strip-piecing techniques to simplify construction
 while maintaining accuracy and consistency.
 
-[View the Heraldic Checky Pattern](Heraldic-Checky-Pattern.pdf)
+[View the Heraldic Checky Pattern](Heraldic-Checky/Heraldic-Checky-Quilt-Block-Pattern.pdf)
 
 ---
 
