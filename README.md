@@ -1,51 +1,113 @@
-# Pauline Kurdt | Technical Writing Portfolio
+# Instructional Guides — Technical Writing Portfolio
 
-Welcome to my technical writing portfolio.
+## Overview
 
-I am a technical professional with extensive experience in systems
-troubleshooting, technical support, testing, documentation, and
-cross-functional communication.
+This branch showcases my ability to transform complex processes into clear, structured, and user-focused instructional documentation.
 
-This portfolio demonstrates my ability to translate complex processes
-and technical information into clear, accurate, and usable documentation.
+The instructional guides demonstrate the application of technical writing principles to practical tasks, enabling users to complete procedures independently, accurately, and confidently.
+
+Although the subject matter of some samples focuses on quilting and textile construction, the documentation methodologies are transferable across technical, manufacturing, software, and engineering environments.
+
+## Purpose
+
+These documentation samples demonstrate my ability to:
+
+- Translate complex processes into actionable instructions.
+- Develop clear, sequential procedures.
+- Identify audience needs and prerequisite knowledge.
+- Communicate technical concepts using accessible language.
+- Integrate visual aids to support written instructions.
+- Organize technical information for usability and accessibility.
+- Validate procedures through practical testing.
+- Refine documentation through iterative development.
+
+## Documentation Process
+
+The following methodology guides the development of instructional documentation:
+
+1. **Audience Analysis:** Identify the intended audience, experience level, learning requirements, and potential challenges.
+2. **Requirements Analysis:** Establish the documentation objectives, prerequisites, materials, and expected outcomes.
+3. **Task Analysis:** Break complex processes into manageable, sequential tasks.
+4. **Content Development:** Create clear, actionable instructions supported by relevant illustrations, diagrams, and reference materials.
+5. **Procedural Validation:** Test procedures to verify accuracy, completeness, and repeatability.
+6. **Quality Review:** Review terminology, measurements, formatting, consistency, and usability.
+7. **Revision and Version Control:** Incorporate findings, correct discrepancies, and maintain documentation revisions.
+
+## Documentation Standards
+
+The instructional guides follow these documentation principles:
+
+- Plain language
+- Active voice
+- Task-oriented instructions
+- Consistent terminology
+- Logical information hierarchy
+- Progressive information disclosure
+- Visual and textual alignment
+- Consistent formatting and branding
+- Accuracy and repeatability
+- Audience-centered design
+
+Where appropriate, instructional guides include:
+
+- Learning objectives
+- Skill-level recommendations
+- Prerequisites
+- Materials and equipment requirements
+- Reference tables
+- Step-by-step procedures
+- Illustrations and diagrams
+- Notes, tips, and cautions
+- Quality checkpoints
+- Expected outcomes
+- Revision information
 
 ## Portfolio Samples
 
-### Heraldic Checky Quilt Block Pattern
+| Document | Document Type | Description |
+|---|---|---|
+| Heraldic Checky Quilt Block Pattern | Instructional Guide | Illustrated strip-piecing instructions incorporating cutting charts, dimensional requirements, and assembly procedures. |
 
-**Document Type:** Illustrated instructional guide
 
-**Audience:** Confident beginner through experienced quilters
+Additional instructional documentation will be added as the portfolio develops.
 
-**Skills Demonstrated:**
-- Procedural writing
-- Instructional design
-- Information organization
-- Technical accuracy
-- Visual communication
-- Audience awareness
-- Clear presentation of measurements and requirements
+## Technical Writing Competencies
 
-**Project Overview**
+| Competency | Application |
+|---|---|
+| Procedural Writing | Developing clear, sequential instructions |
+| Audience Analysis | Identifying user needs and experience levels |
+| Task Analysis | Breaking complex processes into manageable steps |
+| Information Architecture | Organizing content for efficient navigation |
+| Visual Communication | Integrating diagrams, illustrations, and photographs |
+| Technical Accuracy | Verifying measurements and procedural requirements |
+| Usability | Supporting independent task completion |
+| Quality Assurance | Identifying and correcting documentation discrepancies |
+| Version Control | Maintaining document revisions and release history |
+| Content Standardization | Applying consistent terminology, formatting, and structure |
 
-The Heraldic Checky Quilt Block Pattern translates a traditional
-geometric design into a repeatable construction process. The guide
-combines historical context, cutting requirements, diagrams, and
-step-by-step instructions.
+## Tools and Resources
 
-The pattern uses strip-piecing techniques to simplify construction
-while maintaining accuracy and consistency.
+- Microsoft Word
+- Electric Quilt 8 (EQ8)
+- Technical diagrams and illustrations
+- Digital photography
+- PDF documentation
+- GitHub
+- Markdown
 
-[View the Heraldic Checky Pattern](Heraldic-Checky/Heraldic-Checky-Quilt-Block-Pattern.pdf)
+## Quality Assurance and Continuous Improvement
 
----
+Instructional documentation is treated as an iterative development process. Where applicable, procedures are physically tested to identify discrepancies between documented instructions and actual results.
 
-## About Me
+Testing findings are used to refine measurements, improve procedural clarity, strengthen visual communication, and increase the repeatability of the documented process.
 
-My professional background spans technical support, systems
-administration, infrastructure, testing, troubleshooting, and
-technical documentation.
+This approach reflects the relationship between technical documentation, testing, validation, and continuous improvement.
 
-I am particularly interested in technical writing opportunities
-where I can combine technical knowledge with clear communication
-to make complex information easier to understand and use.
+## Intellectual Property and Usage
+
+The original instructional content is developed as part of my professional technical writing portfolio and, where applicable, under Kat's Kustom Krafts, L.L.C.
+
+These samples are provided for professional portfolio evaluation. Public availability does not constitute permission to reproduce, redistribute, modify, or commercially distribute the original content.
+
+Third-party materials, software, and trademarks remain the property of their respective owners.
